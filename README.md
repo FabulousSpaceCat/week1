@@ -12,16 +12,10 @@ Avenue 5 | OMG | Sarcasm, x in space, comedy = tragedy + time
 
 ### What am I doing right now?
 
-[X] Making Checklists
-
-[X] Petting a Cat
-
-[X] Reading the Manual
-
-[X] *Not Panicking*
-
-[X] **Procrastinating**
-
-[] Mowing the Lawn
-
-[] Cleaning my Room
+-[X] Making Checklists
+-[X] Petting a Cat
+-[X] Reading the Manual
+-[X] *Not Panicking*
+-[X] **Procrastinating**
+-[ ] Mowing the Lawn
+-[ ] Cleaning my Room
