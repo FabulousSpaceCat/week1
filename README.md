@@ -1,6 +1,6 @@
 # week1
 
-## My name is Christina Deming
+## My name is Christina Deming.
 
 ### What can you learn from my viewing history?
 
@@ -46,4 +46,3 @@ Go make nachos with this!  Or burritos!  Or whatever, shove it in your tastehole
 2. Turn it on, return in 3-5 hours (depending on your chosen power level)  Maybe stir it every now and then.
 3. ???
 4. Profit!
-
