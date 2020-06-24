@@ -22,7 +22,7 @@ Avenue 5 | **OMG** | Sarcasm, x in space, comedy = tragedy + time
 
 ### Know any good recipes?
 
-Go make nachos with this!  Or burritos!  Or whatever, shove it in your tastehole.
+Go make nachos with this!  Or burritos!  Or whatever, shove it in your tastehole.  It makes *a lot* so there's leftovers, or enough for a bunch of people.
 
 **Ingredients:**
 
