@@ -1,12 +1,21 @@
 # week1
 
-## Christina Deming
+## My name is Christina Deming
 
-A little bit about me:
+### What can you learn from my viewing history?
 
-TV Shows I've watched recently | Awesome | Should you watch it
+**TV Shows I've watched recently | Awesome | What did I like?**
 --- | --- | ---
-Motherland: Fort Salem | Yes | If you like witches and alternative history
-Snowpiercer | So Far | If you want to see a class struggle in a microcosm
-Avenue 5 | OMG | Only if your sympathy doesn't overwhelm you
+Motherland: Fort Salem | Yes | Novel magic system & alternative history
+Snowpiercer | So Far | Class struggle in a microcosm, mysterious backstory
+Avenue 5 | OMG | Sarcasm, x in space, comedy = tragedy + time
 
+### What am I doing right now?
+
+[X] Making Checklists
+[X] Petting a Cat
+[X] Reading the Manual
+[X] *Not Panicking*
+[X] **Procrastinating**
+[] Mowing the Lawn
+[] Cleaning my Room
